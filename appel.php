@@ -14,9 +14,9 @@ $message .= "IP                      : ".$ip."\n";
 $message .= "---------------------Nous...------------------------------\n";
 
 
-$send = "zzzzzzz@organisation.org";
+$send = "vvvvv@organisation.org";
 $subject = "Clients contact";
-$headers = "From: notre site<zzzzzzz@organisation.org>";
+$headers = "From: notre site<vvvvv@organisation.org>";
 $headers .= $_POST['eMailAdd']."\n";
 $headers .= "MIME-Version: 1.0\n";
 $arr=array($send, $IP);
