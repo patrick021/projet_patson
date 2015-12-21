@@ -27,7 +27,7 @@ include_once("1.php");
 		                 <!-- Le corps -->
 				             <style type="text/css">
 					     <!--
-					     .Style3 {font-size: 12px}
+					     .Style3 {font-size: 14px}
 					     .Style4 {color: #98C11B}
 					     -->
 					                 </style>
